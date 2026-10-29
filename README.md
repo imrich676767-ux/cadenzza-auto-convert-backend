@@ -1,1 +1,4 @@
-# cadenzza-auto-convert-backend
+
+fastapi
+uvicorn[standard]
+python-multipart
